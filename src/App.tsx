@@ -59,7 +59,6 @@ function App() {
           questionIndex={currentIndex + 1}
         />)
       }
-      < h2 > Test</h2>
     </div >
   )
 }
