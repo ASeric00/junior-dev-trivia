@@ -58,9 +58,9 @@ function App() {
           props={question[currentIndex]}
           questionIndex={currentIndex + 1}
         />)
-
       }
-    </div>
+      < h2 > Test</h2>
+    </div >
   )
 }
 
